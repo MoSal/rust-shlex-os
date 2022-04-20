@@ -1,3 +1,9 @@
+Adapted for OsStr/OsString types.
+
+Text below from the original [rust-shlex repo](https://github.com/comex/rust-shlex).
+
+-----
+
 [![ci badge]][ci link] [![crates.io badge]][crates.io link] [![docs.rs badge]][docs.rs link]
 
 [crates.io badge]: https://img.shields.io/crates/v/shlex.svg?style=flat-square
